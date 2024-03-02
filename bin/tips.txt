@@ -1,0 +1,13 @@
+ 
+q: What is the purpose of SleepChart? 
+a: collecting your sleep data to better understand how your memory works
+ 
+q: What is the purpose of Plan?
+a: helps you have a productive and stress-free day
+ 
+q: How can you swap the question with the answer?
+a: press Ctrl+Shift+S
+ 
+q: How can you import an article from Wikipedia?
+a: 1. open the article in MS Edge (switch to horizontal tabs if need be with Ctrl+Shift+,), 2. use Shift+F8 in SuperMemo
+ 

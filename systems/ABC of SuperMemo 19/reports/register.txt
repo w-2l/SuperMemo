@@ -1,0 +1,166 @@
+
+Dear Sirs
+
+I would like to begin my learning with SuperMemo.
+I request a password to unlock the program.
+I enclose my data below
+
+My computer ID is:
+F3D1-EG17-02DG2860-DG3D-2048-DE71-370F49H76HD1-F3D1-EG17
+
+****************************************
+INSTRUCTIONS:
+1. Delete data you consider private below
+2. Send this file to register2024@supermemo.org
+3. Await your unlock password
+4. If you get no reply within a business day use e-mail or contact form to get in touch
+
+****************************************
+REGISTRATION DATA
+Name=wei
+Country=China
+Credit=1.144%
+Date=Saturday, March 2, 2024, 8:30:43 PM
+Version=SuperMemo 19 (Build 19.03, Dec 20, 2023)
+****************************************
+OPTIONAL DATA
+All data listed below is optional and will be used for research only
+You can delete sections which you consider private!
+
+COLLECTION STATISTICS
+Collection       d:\program files\supermemo\systems\abc of supermemo 19
+Date             3/2/2024 (Sat)
+First day        3/2/2024
+Period           1 day
+Memorized        25 el. (29.1%)
+Memorized items  25 it. (100%)
+Memorized topics 0 top. (0%)
+Memorized/Day    25.0000 it/day
+Total            88 el.
+Items            54 it.
+Topics           34 top.
+Outstanding      0+0+25 el.
+Review           -
+Protection       I=88
+Retention        100.0000%
+Measured FI      0.00% 
+R-Metric         -
+Alarm            -
+Burden           7.561+0
+Burden +/-       (7.561)+(0)
+Avg Workload     0 sec.
+Exp Workload     37 sec.
+Time             0 sec. (51 sec.)
+Avg time         5.000 sec.
+Total time       N/A
+Lapses           0.00000 (0)
+Speed            N/A
+Avg Cost         N/A
+Exp Cost         1 sec. (min/it)
+Interval (I)     4 days
+Interval (T)     0 sec.
+Repetitions      I=1.000 T=0.000
+Rep count        0
+Last Rep (I)     Mar 2, 2024
+Last Rep (T)     N/A
+Next Rep (I)     Mar 6, 2024
+Next Rep (T)     N/A
+Pending          61 el.
+Dismissed        2 el.
+Average FI       10.00% (10%)
+Completion       3/5/2024
+A-Factor         I=3.92
+Text Registry    228 entries
+Lexicon          567 words
+FI Cases         0
+****************************************
+SYSTEM DATA
+Microsoft Windows 11 ×¨Òµ°æ, version 10.0.22631, 
+MSHTML Engine: Trident ver. 7.0.0
+IE Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64;
+ Trident/7.0; .NET4.0C; .NET4.0E)
+User language: Chinese (zh-CN)
+System language: Chinese (zh-CN)
+Browser language: Chinese (zh-CN)
+User: wei
+Computer: DESKTOP-8U04VUB
+Disk Free D: (Collections): 492.065 GB
+SuperMemo HD ID: C0A8-BD84
+Total physical memory: 17.011 GB
+Free physical memory: 9.453 GB
+Page file: 23.818 GB
+Free page file: 3.882 GB
+Virtual memory: 2.147 GB
+Free virtual memory: 1.822 GB
+Extended virtual memory: 0 bytes
+SuperMemo heap memory: 3.88 MB
+Free heap memory: 2.358 MB
+Heap memory use: 39.23%
+Active Code Page: 936
+OEM Code Page: 936
+Host: DESKTOP-8U04VUB
+UUID: 79AD9537-AD0A-9715-AB48-047C16E43EA8
+IP Address: 192.168.1.9
+Server: DESKTOP-8U04VUB
+Owner: wei : 
+SuperMemo owner: wei
+Collection author: User of SuperMemo
+Network installed
+****************************************
+CONTENTS
+ABC of SuperMemo 19 (87) (87 el.)
+....How does SuperMemo work?
+....Repetitions (9) (9 el.)
+....Learning with SuperMemo (18) (18 el.)
+....Dismiss learning material (3) (3 el.)
+....Backup (3) (3 el.)
+....Incremental reading (22) (22 el.)
+....Further reading
+....Child: 2024:03:02 17:40:14: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:27: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:31: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:33: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:34: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:36: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:36: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:37: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:37: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:38: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:39: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:40: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:40: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:41: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:41: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:42: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:43: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:43: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:44: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:47: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:48: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:49: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:50: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:50: ABC of SuperMemo 19
+....Child: 2024:03:02 17:40:51: ABC of SuperMemo 19
+****************************************
+TEXT REGISTRY (Size=228)
+1. or Alt+Z (Pos=132)
+2. (any) keyword . In this example, the word keyword was selected and replaced with red [.] on the yellow background (Pos=153)
+3. (web) browser (Pos=106)
+4. 1. copy the article to the clipboard, 2. paste it with Ctrl+N (Pos=234)
+5. 1. copy the picture to the clipboard, 2. paste the picture with Ctrl+V or Shift+Ins in SuperMemo (Pos=91)
+6. 1. create a new look, 2. use Template : Save as default (Pos=228)
+7. 1945 . Hint: Compare your response with the correct answer: 1945. Choose a grade: e.g. Great (5) if you answered 1945, or Fail (2) if you answered 1935. Press Enter to ... (Pos=41)
+8. 95% (Pos=83)
+9. 95% retention (Pos=68)
+10. < (Pos=191)
+11. ABC of SuperMemo 19 (Pos=14)
+12. add (Pos=20)
+13. After you create a cloze question you can view it by clicking the < button or pressing Alt+Left arrow (Pos=120)
+14. After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut) (Pos=186)
+15. After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut) (Pos=129)
+16. After you create a cloze question you can view it by clicking the button [.](which one) or pressing Alt+Left arrow (Pos=23)
+17. After you create a cloze question you can view it by clicking the button [.](which one) or pressing Alt+Left arrow (Pos=195)
+18. After you finish typing the question, you can press Esc to move to typing the answer (Pos=143)
+19. After you finish typing the question, you can press [.](key) to move to typing the answer (Pos=77)
+20. After you finish typing the question, you can use [.](key) to move to typing the answer (Pos=73)
+****************************************
